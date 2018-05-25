@@ -1,7 +1,7 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [Rahul Pawar]
+Role: [3d Artist]
 
 ## Team Member 1
 
